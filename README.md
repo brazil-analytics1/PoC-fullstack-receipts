@@ -14,9 +14,6 @@ Não se esqueça de enviar as instruções para rodar o projeto!
 
 É hora do show!
 
-# Importante
-Nenhum código desenvolvido nesse teste será utilizado de forma comercial. O objetivo aqui é apenas avaliar o conhecimento do candidato.
-
 # Objetivo
 O objetivo do teste é conhecer as habilidades em:
 
